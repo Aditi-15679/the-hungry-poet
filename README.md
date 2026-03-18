@@ -1,30 +1,30 @@
 # 🍽️ The Hungry Poet
 
-A beautifully designed restaurant landing page where **food meets poetry**.  
-This project combines elegant UI design with creative content to create a unique user experience.
+This is a simple restaurant landing page I built where food meets a bit of creativity and poetry.  
+The idea was to make something that doesn’t just show dishes, but also adds a small artistic touch to it.
 
 ---
 
-## ✨ Features
+## ✨ What’s inside
 
-- 🎨 Modern and clean UI design  
-- 📱 Fully responsive layout  
-- 🍕 Attractive food menu cards  
-- ✨ Smooth animations and hover effects  
-- 🧾 Creative poetic descriptions for each dish  
-- 🔥 Eye-catching hero section  
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5  
-- CSS3  
-- (Pure frontend project – no frameworks used)
+- A clean and simple UI
+- Fully responsive layout (works on mobile too)
+- Menu cards with food items and short poetic lines
+- Basic animations and hover effects
+- A hero section to give that first impression
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Built with
+
+- HTML  
+- CSS  
+
+(No frameworks, just keeping it simple and focusing on basics)
+
+---
+
+## 📂 Project structure
 
 ```
 The-Hungry-Poet/
@@ -36,30 +36,25 @@ The-Hungry-Poet/
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to run
 
-1. Download or clone the repository  
-   ```
-   git clone https://github.com/your-username/the-hungry-poet.git
-   ```
+Just download or clone the repo and open `index.html` in your browser.
 
-2. Open the project folder  
+```
+git clone https://github.com/your-username/the-hungry-poet.git
+```
 
-3. Run `index.html` in your browser  
-
----
-
-## 📸 Preview
-
-A restaurant website with:
-- Hero section  
-- Menu cards  
-- About section  
-- Smooth UI experience  
+That’s it.
 
 ---
 
+## 💭 Why I made this
+
+I wanted to practice HTML and CSS while building something a bit different from a typical food website.  
+Adding small poetic lines to each dish made the project more fun and creative.
+
+---
 
 ## 🙌 Aditi
 
-If you like this project, give it a ⭐ on GitHub!
+If you like it, feel free to ⭐ the repo 🙂
